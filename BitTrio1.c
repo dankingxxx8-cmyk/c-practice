@@ -1,6 +1,6 @@
-   #include <stdio.h>
+ #include <stdio.h>
 
-   int main(void){
+   int main(void)  {
     int a,b;
     scanf("%d %d",&a,&b);
     /*把数化成二进制竖向比较，相同为零，不同为一
